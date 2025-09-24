@@ -1,0 +1,292 @@
+/*-- scss:defaults --*/
+
+// Import Atkinson Hyperlegible font
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Balanced color palette - strategic use of Goldsmiths colors
+$navy: #1e293b;
+$gold-blue: #1e3a8a;
+$accent-blue: #3b82f6;
+$gold-accent: #d97706; // More muted than bright gold
+$slate: #475569;
+$light-slate: #64748b;
+$border-light: #e2e8f0;
+$background-light: #f8fafc;
+
+// Text size variables
+$base-font-size: 1.15rem;
+$h1-size: 2.4em;
+$h2-size: 1.9em;
+$h3-size: 1.5em;
+$h4-size: 1.25em;
+
+// Typography
+$font-family-sans-serif: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+/*-- scss:rules --*/
+
+// Base styling
+.reveal {
+  font-size: $base-font-size;
+  font-family: $font-family-sans-serif;
+  line-height: 1.7;
+  color: $navy;
+}
+
+// Strategic color use in headings
+.reveal h1 {
+  font-size: $h1-size;
+  font-weight: 700;
+  color: $gold-blue;
+  margin-bottom: 1em;
+  border-bottom: 2px solid $gold-accent;
+  padding-bottom: 0.4em;
+}
+
+.reveal h2 {
+  font-size: $h2-size;
+  font-weight: 700;
+  color: $gold-blue;
+  margin-bottom: 0.8em;
+  margin-top: 1.2em;
+  border-left: 3px solid $accent-blue;
+  padding-left: 0.4em;
+}
+
+.reveal h3 {
+  font-size: $h3-size;
+  font-weight: 700;
+  color: $slate;
+  margin-bottom: 0.6em;
+  margin-top: 1em;
+}
+
+.reveal h4 {
+  font-size: $h4-size;
+  font-weight: 700;
+  color: $light-slate;
+  margin-bottom: 0.5em;
+}
+
+// Title slide with color
+.reveal .title-slide h1 {
+  color: white;
+  border-bottom: none;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.reveal .title-slide h2 {
+  color: rgba(217, 119, 6, 0.9); // Muted gold
+  font-weight: 400;
+  border-left: none;
+  padding-left: 0;
+}
+
+// Content boxes with subtle color accents
+.info-box {
+  background: $background-light;
+  border: 1px solid $border-light;
+  border-left: 4px solid $accent-blue;
+  padding: 1.5em;
+  margin: 1.2em 0;
+  border-radius: 4px;
+}
+
+.warning-box {
+  background: #fefefe;
+  border: 1px solid $border-light;
+  border-left: 4px solid #ef4444;
+  padding: 1.5em;
+  margin: 1.2em 0;
+  border-radius: 4px;
+}
+
+.success-box {
+  background: $background-light;
+  border: 1px solid $border-light;
+  border-left: 4px solid #22c55e;
+  padding: 1.5em;
+  margin: 1.2em 0;
+  border-radius: 4px;
+}
+
+.highlight-box {
+  background: white;
+  border: 1px solid $border-light;
+  border-left: 4px solid $gold-accent;
+  padding: 1.5em;
+  margin: 1.2em 0;
+  border-radius: 4px;
+}
+
+// Contact cards with subtle color accent
+.contact-card {
+  background: white;
+  border: 1px solid $border-light;
+  border-top: 3px solid $gold-blue;
+  border-radius: 6px;
+  padding: 2em;
+  margin: 1.2em 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.title-slide.center {
+  text-align: center !important;
+}
+
+.title-slide.center h1,
+.title-slide.center h2, 
+.title-slide.center h3,
+.title-slide.center h4,
+.title-slide.center p,
+.title-slide.center img {
+  text-align: center !important;
+  margin: 0 auto;
+}
+
+// Links with color but restrained
+.reveal a {
+  color: $accent-blue;
+  text-decoration: underline;
+  text-decoration-color: rgba(59, 130, 246, 0.5);
+  text-underline-offset: 3px;
+  transition: all 0.2s ease;
+}
+
+.reveal a:hover {
+  color: $gold-blue;
+  text-decoration-color: $gold-blue;
+}
+
+// List styling
+.reveal ul, .reveal ol {
+  margin-left: 0;
+  padding-left: 2em;
+}
+
+.reveal li {
+  margin: 0.4em 0;
+  line-height: 1.6;
+}
+
+.reveal ul li::marker {
+  color: $gold-accent;
+}
+
+// Code styling with subtle color
+.reveal code {
+  background: $background-light;
+  padding: 0.2em 0.5em;
+  border-radius: 3px;
+  color: $gold-blue;
+  font-size: 0.95em;
+  border: 1px solid $border-light;
+}
+
+// Emphasis styling
+.reveal strong {
+  color: $gold-blue;
+  font-weight: 700;
+}
+
+.reveal em {
+  color: $slate;
+  font-style: italic;
+}
+
+// Table with subtle color headers
+.reveal table {
+  border-collapse: collapse;
+  margin: 1.5em auto;
+  border: 1px solid $border-light;
+  width: 100%;
+}
+
+.reveal th {
+  background: $gold-blue;
+  color: white;
+  padding: 1em;
+  border: 1px solid $gold-blue;
+  font-weight: 700;
+  text-align: left;
+}
+
+.reveal td {
+  padding: 0.8em 1em;
+  border: 1px solid $border-light;
+}
+
+.reveal tr:nth-child(even) {
+  background: rgba(248, 250, 252, 0.5);
+}
+
+// Blockquotes with color accent
+.reveal blockquote {
+  border-left: 4px solid $gold-accent;
+  padding-left: 1.5em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: $slate;
+  background: none;
+  box-shadow: none;
+}
+
+// Footer and navigation
+.reveal .footer {
+  color: $light-slate;
+  font-size: 0.9em;
+}
+
+.reveal .slide-number {
+  color: $light-slate;
+  background: rgba(255,255,255,0.9);
+  border: 1px solid $border-light;
+  border-radius: 3px;
+  padding: 0.3em 0.6em;
+}
+
+// Section dividers
+.reveal hr {
+  border: none;
+  border-top: 2px solid $border-light;
+  margin: 2em 0;
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .reveal {
+    font-size: 1rem;
+  }
+  
+  .reveal h1 { font-size: 2em; }
+  .reveal h2 { font-size: 1.6em; }
+  .reveal h3 { font-size: 1.3em; }
+  
+  .info-box, .warning-box, .success-box, .highlight-box, .contact-card {
+    padding: 1.2em;
+  }
+}
+
+@media (min-width: 1200px) {
+  .reveal {
+    font-size: 1.25rem;
+  }
+}
+
+// Print optimizations
+@media print {
+  .reveal {
+    font-size: 11pt;
+    color: black;
+  }
+  
+  .reveal h1, .reveal h2, .reveal h3 {
+    color: black;
+  }
+  
+  .info-box, .warning-box, .success-box, .highlight-box {
+    border: 1px solid #999 !important;
+    background: white !important;
+    box-shadow: none !important;
+  }
+}

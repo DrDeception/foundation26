@@ -1,0 +1,678 @@
+---
+# title: "Welcome to The Psychology Department"
+# subtitle: "Integrated Degree in Psychology<br>Foundation Year 2024-25<br>Induction"
+# author: "Goldsmiths, University of London"
+format:
+  revealjs:
+    theme: [default, custom3.scss]
+    logo: "images/goldsmiths-logo.png"
+    footer: "Foundation Year 2025-26"
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    highlight-style: github
+    scrollable: true
+---
+
+##  {.title-slide background-image="images/WelcomeImage.png" background-size="cover" background-position="center"}
+
+## Welcome to The Psychology Department {.title-slide .center}
+
+### Integrated Degree in Psychology
+
+### Foundation Year 2025-26
+
+![](foundations_26_logo_transparent.svg){.fragment}
+
+#### **Goldsmiths, University of London**
+
+## Welcome!
+
+These slides will cover:
+
+-   Key Staff involved in your programme
+-   Accessing Important Support Services
+-   Virtual learning environment (VLE) – learn.gold
+-   Foundations Programme Structure
+-   How you are assessed
+-   Timetable (maybe...)
+
+## Who are we?
+
+::::: columns
+::: {.column width="50%"}
+![](images/DarrenBrain.jpeg){width="150px"}
+
+### Dr. Gordon Wright
+
+**Programme Director: Foundation Year**
+
+Email: [g.wright\@gold.ac.uk](mailto:g.wright@gold.ac.uk)\
+Office: WB 200/2\
+Office Hours: TBC
+:::
+
+::: {.column width="50%"}
+![](images/dougal.jpeg){width="210px"}
+
+### Pawfessor Dougal Macguire
+
+**Head of Naps and Tail-Wagging**
+
+insta: [\@dougalmania](https://instagram.com/dougalmania)\
+Office: Under the desk of WB 200/2\
+Office Hours: by appointment
+:::
+:::::
+
+## Department of Psychology
+
+### Head of Subject
+
+**Dr Diana Omigie**
+
+::: {style="width: 220px; margin: 0;"}
+![](images/Diana-Omigie.jpg)
+:::
+
+## Foundations Personal Tutors
+
+**Note:** We will be scheduling a 1:1 meeting for all of you next week with your allocated Personal Tutor
+
+::::::::: columns
+:::: {.column width="33%"}
+**Dr Caroline Rix**
+
+::: {style="width: 220px; margin: 0;"}
+![](images/CarolineRix.jpg)
+:::
+::::
+
+:::: {.column width="33%"}
+**Dr Nicole Eisen**
+
+::: {style="width: 220px; margin: 0;"}
+![](images/Nicole-Eisen.jpeg)
+:::
+::::
+
+:::: {.column width="33%"}
+**Dr Robert Chapman**
+
+::: {style="width: 220px; margin: 0;"}
+![](images/robertchapman.jpg)
+:::
+::::
+:::::::::
+
+## Research Methods Lab Tutors
+
+::::::: columns
+:::: {.column width="50%"}
+**Dr Bence Palfi**
+
+::: {style="width: 220px; margin: 0;"}
+![](images/Bence-Palfi.jpg)
+:::
+::::
+
+:::: {.column width="50%"}
+**Dr Gordon Wright**
+
+::: {style="width: 220px; margin: 0;"}
+![](images/copper.jpeg)
+:::
+::::
+:::::::
+
+## Communication
+
+::::: columns
+::: {.column width="70%"}
+### Important Email Policy
+
+-   All email communication is via your **COLLEGE email address!**
+-   Do not use your personal email account once enrolled
+-   Module-specific VLE forum announcements generate automatic emails to the class
+:::
+
+::: {.column width="30%"}
+![](images/email.png)
+:::
+:::::
+
+## Information for New Students
+
+### New Students Welcome Portal
+
+Visit the comprehensive welcome guide:
+
+[**https://www.gold.ac.uk/welcome/**](https://www.gold.ac.uk/welcome/)
+
+Everything you need to know for starting your studies at Goldsmiths. ![](images/welcomeinfo.png)
+
+## Support Services
+
+## Wellbeing Support and Advice
+
+-   Counselling service
+-   Mental health difficulties support
+-   Emergency and crisis support
+-   Financial difficulties advice. [**https://www.gold.ac.uk/students/wellbeing/**](https://www.gold.ac.uk/students/wellbeing/)
+
+![](images/wellbeing.png)
+
+## Learning Support
+
+-   Disability Coordinator and Adviser
+-   Confidential service
+-   Help with disabilities (e.g., dyslexia)
+-   Reasonable adjustments (RASAs, DSA) [**https://www.gold.ac.uk/students/disability-support/**](https://www.gold.ac.uk/students/disability-support/)
+
+![](images/Disability.png)
+
+## Student Support Structure
+
+::::: columns
+::: {.column width="50%"}
+### Academic Inquiries
+
+**Contact Programme Director:**
+
+-   [g.wright\@gold.ac.uk](mailto:g.wright@gold.ac.uk)
+-   Room WB200/2
+-   Office hours: TBC
+
+For coursework, deadlines, module content
+:::
+
+::: {.column width="50%"}
+### Non-Academic Inquiries
+
+**Contact Student Hub:**
+
+-   Enrollment questions
+-   Personal timetable issues
+-   Finance/fees inquiries
+-   Available via chat, phone, and in-person
+
+![](images/hub.png)
+:::
+:::::
+
+## Student Hub Access
+
+::::: columns
+::: {.column width="50%"}
+### Live Chat and Telephone
+
+-   **Hours:** Monday - Friday, 9am - 5pm
+-   **Phone:** 020 8228 5550
+-   Chat available at all times during opening hours
+
+### Visit In-Person
+
+-   **Location:** Rutherford Building (Library), Ground Floor
+
+-   **Hours:** Monday - Friday: 10am - 4pm
+
+-   **Reading weeks:** 1 - 4pm
+:::
+
+::: {.column width="50%"}
+![](images/hubchat.png)
+:::
+:::::
+
+## Your Accounts & Apps
+
+::::: columns
+::: {.column width="50%"}
+### MyGoldsmiths Account
+
+[**mygoldsmiths.gold.ac.uk**](https://mygoldsmiths.gold.ac.uk)
+
+-   Manage student record
+
+-   Change personal details
+
+-   View results & transcripts
+
+    ![](images/mygoldsmiths.png)
+:::
+
+::: {.column width="50%"}
+### Goldsmiths App
+
+[**www.gold.ac.uk/students/app/**](https://www.gold.ac.uk/students/app/)
+
+-   @gold.ac.uk email
+-   Timetable access
+-   Learn.gold (VLE)
+-   Library services
+-   Campus map & events
+
+![](images/app.jpg)
+:::
+:::::
+
+## Library Services
+
+### Online Access
+
+[**www.gold.ac.uk/library/**](http://www.gold.ac.uk/library/)
+
+**Specialist Psychology Librarian:** Caitlin Moore
+
+### Library Induction Session
+
+**To be arranged prior to practice essay submission**
+
+### University of London Access [**london.ac.uk/senate-house-library**](https://london.ac.uk/senate-house-library)
+
+![](images/senatehouse1.png)![](images/senatehouse2.png)
+
+Full access to Senate House Library resources
+
+## IT Services
+
+### IT Support
+
+[**www.gold.ac.uk/it/service-desk/**](http://www.gold.ac.uk/it/service-desk/)
+
+Email: [helpdesk\@gold.ac.uk](mailto:helpdesk@gold.ac.uk)
+
+-   Help with college login systems
+-   Email account setup
+-   Located on 1st floor of library
+-   Follow signs to IT helpdesk
+
+![](images/ITIS.png)
+
+## Virtual Learning Environment
+
+### VLE = learn.gold
+
+[**http://learn.gold.ac.uk**](http://learn.gold.ac.uk)
+
+**Main Programme Page:** "Integrated Degree in Psychology Foundation Year"
+
+**Direct link:** [learn.gold.ac.uk/course/view.php?id=24622](https://learn.gold.ac.uk/course/view.php?id=24622)
+
+## VLE Content
+
+The main Foundation programme page contains:
+
+-   Programme outline
+-   Timetable information\
+-   Week 1: Intro Week schedule
+-   Practice Essay details
+-   Coursework assignment deadlines
+-   Extenuating circumstances information
+-   Programme Representatives info
+-   Regular updates throughout the year
+
+**Check regularly for new information!**
+
+## Core Foundation Modules
+
+**PS50005B: Social and Developmental Psychology** Term 1 ONLY\
+[learn.gold.ac.uk/course/view.php?id=33218](https://learn.gold.ac.uk/course/view.php?id=33218)
+
+**PS50006B: Psychology and Life** Terms 1 & 2\
+[learn.gold.ac.uk/course/view.php?id=33219](https://learn.gold.ac.uk/course/view.php?id=33219)
+
+**PS50007B: Psychobiology and Cognitive Psychology** Terms 1 & 2\
+[learn.gold.ac.uk/course/view.php?id=33220](https://learn.gold.ac.uk/course/view.php?id=33220)
+
+**PS50008A: Research Methods and Experimental Design** Term 2 ONLY\
+[learn.gold.ac.uk/course/view.php?id=33221](https://learn.gold.ac.uk/course/view.php?id=33221)
+
+## Module Page Content
+
+Each module page contains:
+
+-   Module description & coordinator contact info
+-   Reading lists
+-   Seminar information & essay titles (in due course)
+-   Submission deadlines & links
+-   Weekly lecture content including:
+    -   Slides/handouts
+    -   Recommended readings and links to reading lists
+    -   Additional materials
+
+## Programme Structure
+
+### Week 1 (w/c 29th September 2025) – Introductory Week Workshops
+
+**Workshop 1:** Academic Skills and University Transition (2 hours)
+
+**Workshop 2:** Essay Writing Fundamentals + Formative Essay (2 hours)
+
+**Workshop 3:** Planning and Researching a Specific Essay (2 hours)
+
+**Workshop 4:** Library Skills and Information Literacy (2 hours)
+
+**Workshop 5:** Digital Skills for Psychology Students (2 hours)
+
+**Digital Workbook:** APA Format, Referencing, Plagiarism, and AI Use
+
+::: callout
+And a 'Getting to know each other psychologically' social!
+:::
+
+## Teaching Schedule
+
+### Week 2 (w/c 6th October 2025) onwards: Formal teaching begins
+
+**Teaching on modules:** - PS50005B, PS50006B, & PS50007B
+
+## Coursework Deadlines
+
+| \#  | Assignment          | SEM | Due                    | FB     |
+|-----|---------------------|-----|------------------------|--------|
+| 1   | Practice essay      | W1  | Fri 24 Oct '25 **W4**  | W6     |
+| 2   | Personality essay   | W3  | Fri 21 Nov '25 **W8**  | W10    |
+| 3   | Social Psych essay  | W5  | Fri 28 Nov '25 **W9**  | Winter |
+| 4   | Psychobiology essay | W8  | Fri 16 Jan '26 **W11** | W14    |
+| 5   | Developmental essay | W10 | Fri 16 Jan '26 **W11** | W14    |
+| 6   | Applications essay  | W11 | Fri 13 Feb '26 **W15** | W18    |
+| 7   | Research plan       | NA  | Fri 27 Feb '26 **W16** | W20    |
+| 8   | EDS MCQ test        | NA  | Mon 09 Mar '26 **W18** | Spring |
+| 9   | Cognitive essay     | W14 | Fri 13 Mar '26 **W18** | Spring |
+| 10  | EDS Home assign.    | NA  | Fri 20 Mar '26 **W20** | Spring |
+| 11  | Research report     | NA  | Fri 01 May '26 **W22** | W24    |
+
+## 📚 Module Information
+
+### PS50005B – Social Psychology - Term 1 (Autumn)
+
+| Lecture | Topic                             |
+|---------|-----------------------------------|
+| 1       | Social Influence I: Conformity    |
+| 2       | Social Influence II: Obedience    |
+| 3       | Prosocial Behaviour               |
+| 4       | Intragroup Processes              |
+| 5       | Intergroup Processes              |
+| 6       | Attitude & Attitude Change        |
+| 7       | Interpersonal Communication       |
+| 8       | Aggression                        |
+| 9       | Social Psychology Across Cultures |
+
+### PS50005B – Developmental Psychology - Term 1 (Autumn)
+
+| Lecture | Topic                           |
+|---------|---------------------------------|
+| 1       | Intro & Theories of Development |
+| 2       | Attachment                      |
+| 3       | Perceptual Abilities in Infancy |
+| 4       | Cognitive Development           |
+| 5       | Parenting                       |
+| 6       | Gender Development              |
+| 7       | Adolescence                     |
+| 8       | Adulthood and Old Age           |
+| 9       | Summary and Revision            |
+
+### PS50006B – Personality & Psychopathology - Term 1 (Autumn)
+
+| Lecture | Topic                                      |
+|---------|--------------------------------------------|
+| 1       | Personality I: Trait Theories              |
+| 2       | Personality II: Biological Theories        |
+| 3       | Personality Assessment I                   |
+| 4       | Personality Assessment II                  |
+| 5       | Psychopathology: Definition/Classification |
+| 6       | Obsessive-compulsive Disorder              |
+| 7       | Personality Disorders                      |
+| 8       | Panic Disorder                             |
+| 9       | Summary and Revision                       |
+
+### PS50007B – Psychobiology - Term 1 (Autumn)
+
+| Lecture | Topic                                  |
+|---------|----------------------------------------|
+| 1       | Brain Anatomy I                        |
+| 2       | Brain Anatomy II                       |
+| 3       | Synaptic Transmission                  |
+| 4       | Psychobiology of Emotions              |
+| 5       | Sleep                                  |
+| 6       | The Visual System                      |
+| 7       | Somatosensory Systems                  |
+| 8       | Psychobiology of Psychiatric Disorders |
+| 9       | Module summary / Revision              |
+
+## Term 2
+
+### PS50006B – Applications of Psychology - Term 1 (Autumn)
+
+10 x Lectures from specialists across the department!
+
+### PS50007B – Cognitive Psychology - Term 2 (Spring)
+
+| Lecture | Topic                         |
+|---------|-------------------------------|
+| 1       | Major Approaches to Cog Psych |
+| 2       | Multi-store Model of Memory   |
+| 3       | Working Memory                |
+| 4       | Attention                     |
+| 5       | Perception                    |
+| 6       | Long-term Memory              |
+| 7       | Cognition and Emotion         |
+| 8       | Judgement and Decision Making |
+| 9       | TBA                           |
+| 10      | Summary and Revision          |
+
+### PS50008A – Research Methods & Experimental Design Lectures - Term 2 (Spring) ONLY
+
+| Lecture | Topic                                         |
+|---------|-----------------------------------------------|
+| 1       | Intro to Designing Good Experiments           |
+| 2       | Reporting Your Findings                       |
+| 3       | Correlational Designs                         |
+| 4       | Probabilities & Distributions                 |
+| 5       | Significance Testing & Research Plan Briefing |
+| 6       | Practice Assignment                           |
+| 7       | Practice MCQ Test                             |
+| 8       | Running Experiments Ethically and Effectively |
+| 9       | In-class MCQ Test                             |
+| 10      | MCQ Feedback + Lab Report Briefing            |
+
+### PS50008A – Research Methods & Experimental Design Labs - Term 2 (Spring) ONLY
+
+| Lab | Topic                                  |
+|-----|----------------------------------------|
+| 1   | Observation of Human Behaviour         |
+| 2   | Descriptive Statistics                 |
+| 3   | Correlational Analysis                 |
+| 4   | Plotting Data with R                   |
+| 5   | Running T-Tests with R                 |
+| 6   | Project Groups: Literature Review      |
+| 7   | Project Groups: Methodology            |
+| 8   | Project Groups: Procedure              |
+| 9   | Lab Groups 1 & A: Live Data Collection |
+| 10  | Data Analysis and Reporting            |
+
+## Personal Tutors
+
+### Personal Tutor Assignment
+
+Each student will be assigned a Personal Tutor
+
+-   **First 1-to-1 meeting** next week
+-   **Group meetings** fortnightly in terms 1 & 2
+-   **Scheduled on your Timetables** eventually!
+
+## Assessment Overview
+
+### Coursework
+
+-   **10 summative assignments**
+-   **1 formative (practice) essay**
+
+### Examinations
+
+-   **3 timed in-person exams** (Term 3)
+-   **Exception:** PS50008A has MCQ test instead
+-   2hr in person exams
+-   6 questions given, 3 from each 'half' of the module (sections a & b)
+-   You answer 1 question from each section (2 in total)
+
+### Weighting by Module:
+
+-   **PS50005B, PS50006B, PS50007B:** 50% coursework + 50% exams
+-   **PS50008A:** 80% coursework + 20% in-class MCQ test
+
+## Detailed Assessment Breakdown
+
+**PS50005B: Social & Developmental Psychology**\
+1 social essay + 1 developmental essay + 1 combined exam
+
+**PS50006B: Psychology & Life**\
+1 personality essay + 1 applications essay + 1 combined exam
+
+**PS50007B: Psychobiology & Cognitive Psychology**\
+1 psychobiology essay + 1 cognitive essay + 1 combined exam
+
+**PS50008A: Research Methods and Experimental Design**\
+1 research plan + 1 EDS assignment + 1 MCQ test + 1 research report (double weighted)
+
+## Generative AI Policy
+
+::::::::: columns
+:::: {.column width="70%"}
+### Strict AI Usage Rules
+
+**You must NOT use generative AI to generate any work for assessment**
+
+-   Includes ALL formats: text, images, video, sound, animation
+-   Any exceptions will be clearly stated on module VLE pages
+-   AI-generated work = **Academic Misconduct**
+-   May result in formal investigation
+-   **When in doubt, don't use it!**
+::::
+
+:::: {.column width="30%"}
+![](images/genai.jpeg)
+::::
+:::::::::
+
+## Progression Requirements
+
+### Pass Mark: 50%
+
+Required for all assessments and modules
+
+### Progression to Year 1: 60%+
+
+-   Pass all four modules (50%+ each)
+-   Achieve 60%+ overall average
+
+### Resit Policy
+
+If you fail a module, you get **two further attempts:**
+
+-   **Attempt 1:** Late summer
+
+-   **Attempt 2:** Following academic year
+
+## Extenuating Circumstances
+
+### When to Apply for ECs
+
+**Missing deadlines or exams requires EC application + supporting statement**
+
+### Timing Rules:
+
+-   **Unforeseen events:** Apply within **7 days** of missed deadline
+-   **Foreseen events:** Apply **14 working days** before deadline
+
+### How to Apply:
+
+-   Via your **MyGoldsmiths account**
+-   Full details on main programme page
+
+## Marking and Feedback
+
+### Coursework
+
+-   Submit via learn.gold module pages
+-   **Marks & feedback:** 3 weeks after submission
+-   Due dates posted on main programme page
+
+### Examinations
+
+-   **EDS MCQ:** 3 weeks + in-class feedback
+-   **Final exams:** Results via MyGoldsmiths (July)
+
+## Timetable Information
+
+### Teaching Days
+
+**Wednesday, Thursday & Friday** in term 1
+
+### Teaching Hours
+
+-   **Term 1:** 10am - 3:30pm
+-   **Term 2:** 10am - 4pm (TBC)
+
+### Check Your Timetable
+
+[**www.gold.ac.uk/students/timetable/**](https://www.gold.ac.uk/students/timetable/)
+
+## Attendance Policy
+
+### ALL Classes are COMPULSORY
+
+![](images/seats.png)
+
+Lectures, seminars, labs, personal tutor sessions
+
+### SEAts Monitoring System
+
+-   Download the **SEAts App**
+-   Register attendance at start of every class
+-   Non-attendance alerts may lead to Academic Probation
+
+**More info:** [gold.ac.uk/students/seats/](https://gold.ac.uk/students/seats/)
+
+## Lecture Recordings
+
+::::::::: columns
+:::: {.column width="70%"}
+### Recording Policy
+
+**This is an in-person degree, not online!**
+
+-   Recordings are not made for any sessions
+-   Must attend in-person for full learning experience
+-   To record yourself: notify lecturer first
+
+**Plan to attend all sessions!** 
+
+::: {.callout-tip} 
+It's easier to keep up than catch up! 
+:::
+::::
+
+:::: {.column width="30%"}
+![](images/lecturerecording.jpeg)
+::::
+:::::::::
+
+## I'm in no rush to go anywhere, so can stay and answer any questions! 
+
+Closing words - We are excited about the year ahead, and our shared mission is... 
+
+**Seeing you in Year 1 this time next year!**
+
+------------------------------------------------------------------------
+
+## Questions?
+
+Most information is usually available on the VLE
+
+**Contact your Programme Director:**\
+Email: [g.wright\@gold.ac.uk](mailto:g.wright@gold.ac.uk)
+
+**Visit the main programme page and use the forum:**\
+[learn.gold.ac.uk/course/view.php?id=24622](https://learn.gold.ac.uk/course/view.php?id=24622)

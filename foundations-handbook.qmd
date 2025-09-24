@@ -1,0 +1,259 @@
+---
+title: "Foundation in Psychology Programme Handbook"  # Empty to use custom title
+author: "Dr. Gordon Wright"  # Empty to use custom title
+date: "09/24/2025"    # Empty to use custom title
+format:
+  html:
+    theme: [default, website-theme.scss]
+    toc: true
+    toc-location: right
+  pdf:
+    documentclass: scrartcl
+    classoption:
+      - DIV=11
+      - numbers=noendperiod
+    papersize: a4
+    pdf-engine: xelatex
+    mainfont: "Atkinson Hyperlegible"
+    colorlinks: true
+    geometry: 
+      - bottom=20mm
+    linkcolor: goldsmithsblue
+    urlcolor: goldsmithsblue
+    citecolor: goldsmithsblue
+    keep-tex: false
+    include-in-header:
+      - text: |
+          \usepackage{fontawesome5}
+          \usepackage{xcolor}
+          \usepackage{colortbl}
+          \usepackage{fancyhdr}
+          \KOMAoption{captions}{tableheading}
+          \definecolor{goldsmithsblue}{RGB}{0, 51, 102}
+          \definecolor{goldsmithsgold}{RGB}{255, 193, 7}
+          \addtokomafont{section}{\color{goldsmithsblue}}
+          \addtokomafont{subsection}{\color{goldsmithsblue}}
+          \addtokomafont{subsubsection}{\color{goldsmithsblue}}
+          \pagestyle{fancy}
+          \fancyhf{}
+          \fancyhead[L]{\textcolor{goldsmithsblue}{\textbf{Foundation in Psychology Programme}}}
+          \fancyhead[R]{\textcolor{goldsmithsblue}{\thepage}}
+          \fancyfoot[L]{\textcolor{gray}{\small 2025 Goldsmiths, University of London}}
+          \fancyfoot[R]{\textcolor{gray}{\small Dr. Gordon Wright}}
+          \setlength{\footskip}{5pt}
+          \renewcommand{\footrulewidth}{0pt}
+    template-partials:
+      - before-body.tex
+execute:
+  echo: false
+  warning: false
+  message: false
+bibliography: references.bib
+csl: apa.csl
+---
+
+# 🧠 Welcome
+
+Welcome to the Foundation in Psychology programme at Goldsmiths for the academic year 2025-26!
+
+------------------------------------------------------------------------
+
+## 👥 Programme Contacts
+
+**Programme Director**: Dr. Gordon Wright\
+📧 g.wright\@gold.ac.uk\
+🕒 Office Hours: TBC\
+📍 WB 200/2 (Whitehead Building)
+
+------------------------------------------------------------------------
+
+## 📦 Programme Structure
+
+You will complete **4 taught modules**:
+
+-   PS50005B – *Social & Developmental Psychology*
+-   PS50006B – *Psychology & Life* (Personality & Psychopathology, Applications)
+-   PS50007B – *Psychobiology & Cognitive Psychology*
+-   PS50008A – *Research Methods in Psychology*
+and 
+-   Personal Tutoring
+
+------------------------------------------------------------------------
+
+## 🗓️ Teaching Calendar
+
+-   **Week 1 (w/b 30 Sep 24)**: Introductory Week
+-   **Week 2 onwards (w/b 07 Oct 24)**: Formal teaching begins
+-   **Teaching days**: Monday, Tuesday, Thursday
+-   **All teaching is in person**
+
+------------------------------------------------------------------------
+
+## 🧪 Assessment Summary
+
+-   10 summative coursework submissions
+-   3 in-house exams (Term 3), except PS50008A
+-   Coursework: Essays, reports, MCQ, plan
+-   **Pass = 50%**, **Progression = pass all + 60% average**
+
+------------------------------------------------------------------------
+
+## 📝 Coursework Deadlines
+
+| # | Assignment                | SEM | Due               | FB   |
+|---|---------------------------|-----|-------------------|------|
+| 1 | Practice essay (xx%)      | W1  | Fri 24 Oct '25 W4 | W6   |
+| 2 | Personality essay (xx%)   | W3  | Fri 21 Nov '25 W8 | W10  |
+| 3 | Social Psych essay (xx%)  | W5  | Fri 28 Nov '25 W9 | Winter |
+| 4 | Psychobiology essay (xx%) | W8  | Fri 16 Jan '26 W11| W14  |
+| 5 | Developmental essay (xx%) | W10 | Fri 16 Jan '26 W11| W14  |
+| 6 | Applications essay (xx%)  | W11 | Fri 13 Feb '26 W15| W18  |
+| 7 | Research plan (xx%)       | NA  | Fri 27 Feb '26 W16| W20  |
+| 8 | EDS MCQ test (xx%)        | NA  | Mon 09 Mar '26 W18| Spring |
+| 9 | Cognitive essay (xx%)     | W14 | Fri 13 Mar '26 W18| Spring |
+|10 | EDS Home assign. (xx%)    | NA  | Fri 20 Mar '26 W20| Spring |
+|11 | Research report (xx%)     | NA  | Fri 01 May '26 W22| W24  |
+
+
+
+## 📚 Module Information
+
+### PS50005B – Social Psychology - Term 1 (Autumn)
+
+| Lecture | Topic                             |
+|---------|-----------------------------------|
+| 1       | Social Influence I: Conformity    |
+| 2       | Social Influence II: Obedience    |
+| 3       | Prosocial Behaviour               |
+| 4       | Intragroup Processes              |
+| 5       | Intergroup Processes              |
+| 6       | Attitude & Attitude Change        |
+| 7       | Interpersonal Communication       |
+| 8       | Aggression                        |
+| 9       | Social Psychology Across Cultures |
+
+### PS50005B – Developmental Psychology
+
+| Lecture | Topic                           |
+|---------|---------------------------------|
+| 1       | Intro & Theories of Development |
+| 2       | Attachment                      |
+| 3       | Perceptual Abilities in Infancy |
+| 4       | Cognitive Development           |
+| 5       | Parenting                       |
+| 6       | Gender Development              |
+| 7       | Adolescence                     |
+| 8       | Adulthood and Old Age           |
+| 9       | Summary and Revision            |
+
+### PS50006B – Personality & Psychopathology - Term 1 (Autumn)
+
+
+| Lecture | Topic                                      |
+|---------|--------------------------------------------|
+| 1       | Personality I: Trait Theories              |
+| 2       | Personality II: Biological Theories        |
+| 3       | Personality Assessment I                   |
+| 4       | Personality Assessment II                  |
+| 5       | Psychopathology: Definition/Classification |
+| 6       | Obsessive-compulsive Disorder              |
+| 7       | Personality Disorders                      |
+| 8       | Panic Disorder                             |
+| 9       | Summary and Revision                       |
+
+
+
+### PS50006B – Applications of Psychology - Term 2 (Spring)
+
+| Week | Date       | Time   | Location |
+|------|------------|--------|----------|
+| 24   | Mon 23 Jan | 12–1pm | RHB 143  |
+| 25   | Mon 30 Jan | 12–1pm | RHB 143  |
+| 26   | Mon 06 Feb | 12–1pm | RHB 143  |
+
+### PS50007B – Psychobiology - Term 1 (Autumn)
+
+| Lecture | Topic                                  |
+|---------|----------------------------------------|
+| 1       | Brain Anatomy I                        |
+| 2       | Brain Anatomy II                       |
+| 3       | Synaptic Transmission                  |
+| 4       | Psychobiology of Emotions              |
+| 5       | Sleep                                  |
+| 6       | The Visual System                      |
+| 7       | Somatosensory Systems                  |
+| 8       | Psychobiology of Psychiatric Disorders |
+| 9       | Module summary / Revision              |
+
+### PS50007B – Cognitive Psychology - Term 2 (Spring)
+
+| Lecture | Topic                         |
+|---------|-------------------------------|
+| 1       | Major Approaches to Cog Psych |
+| 2       | Multi-store Model of Memory   |
+| 3       | Working Memory                |
+| 4       | Attention                     |
+| 5       | Perception                    |
+| 6       | Long-term Memory              |
+| 7       | Cognition and Emotion         |
+| 8       | Judgement and Decision Making |
+| 9       | TBA                           |
+| 10      | Summary and Revision          |
+
+### PS50008A – Research Methods & Experimental Design Lectures - Term 2 (Spring) ONLY
+
+| Lecture | Topic                                         |
+|---------|-----------------------------------------------|
+| 1       | Intro to Designing Good Experiments  |
+| 2       | Reporting Your Findings           |
+| 3       | Correlational Designs                         |
+| 4       | Probabilities & Distributions |
+| 5       | Significance Testing & Research Plan Briefing  |
+| 6       | Practice Assignment                           |
+| 7       | Practice MCQ Test                             |
+| 8       | Running Experiments Ethically and Effectively|
+| 9       | In-class MCQ Test                             |
+| 10      | MCQ Feedback + Lab Report Briefing                |
+
+### PS50008A – Research Methods & Experimental Design Labs - Term 2 (Spring) ONLY
+
+| Lab     | Topic                                 |
+|---------|---------------------------------------|
+| 1       | Observation of Human Behaviour           |
+| 2       | Descriptive Statistics                |
+| 3       | Correlational Analysis                |
+| 4       | Plotting Data with R          |
+| 5       | Running T-Tests with R        |
+| 6       | Project Groups: Literature Review     |
+| 7       | Project Groups: Methodology           |
+| 8       | Project Groups: Procedure             |
+| 9       | Lab Groups 1 & A: Live Data Collection     |
+| 10      | Data Analysis and Reporting          |
+
+------------------------------------------------------------------------
+
+## 📌 Mitigation, Feedback & Progression
+
+-   **Submit coursework via learn.gold**
+-   **MCQ and Exam results** via MyGoldsmiths
+-   **Pass all modules** (50%+), and average ≥60% to progress
+-   **Mitigation requests** via MyGoldsmiths within 7 days (unforeseen) or 14 working days in advance (foreseen)
+
+------------------------------------------------------------------------
+
+## 💬 Personal Tutors
+
+-   Assigned in Week 1
+-   1-to-1 and group sessions scheduled each term
+-   Details posted on the programme Learn.gold page
+
+------------------------------------------------------------------------
+
+## ✅ Final Tips
+
+-   Stay organised\
+-   Ask for help early\
+-   Attend all sessions (they’re in-person!)\
+-   Use Learn.gold regularly
+
+**Good luck!**

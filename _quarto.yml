@@ -1,0 +1,51 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+website:
+  title: Foundations26
+  navbar:
+    right:
+    - text: General Info
+      href: index.qmd
+  sidebar:
+    style: docked
+    alignment: left
+    border: true
+    collapse-level: 1
+    contents: auto
+    # - section: Content
+    #   contents:
+    #   - text: Index
+    #     href: index.qmd
+    # - section: WeekXX
+    #   contents:
+    #   - text: Week XX Content
+    #     href: materials/home_weekxx.qmd
+    #   - text: Chapter
+    #     href: materials/chapter.qmd
+    #   - text: Worksheet
+    #     href: materials/worksheet.qmd
+    #   - text: Quiz
+    #     href: materials/quiz.qmd
+  page-footer:
+    center: Copyright 2025, Gordon Wright
+execute:
+  freeze: auto
+format:
+  html:
+    df-print: paged
+    code-overflow: wrap
+    code-line-numbers: true
+    code-copy: true
+    theme: simplex
+    mainfont: Atkinson Hyperlegible
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: true
+    comments:
+      hypothesis: true
+    css: include/webex.css
+    include-after-body: include/webex.js
+filters: 
+- webr
