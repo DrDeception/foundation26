@@ -1,0 +1,18 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="textShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="1" dy="1" stdDeviation="1" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- No background - transparent -->
+  
+  <!-- Main text "FOUNDATIONS" - dark navy -->
+  <text x="50" y="70" text-anchor="start" fill="#1B365D" font-family="Inter, Graphik, Source Sans Pro, system-ui, -apple-system, sans-serif" font-size="32" font-weight="600" letter-spacing="0.5px" filter="url(#textShadow)">FOUNDATIONS</text>
+  
+  <!-- Year "'26" - positioned after FOUNDATIONS with proper spacing - indigo accent -->
+  <text x="290" y="70" text-anchor="start" fill="#6366F1" font-family="Roboto Condensed, Anton, Fjalla One, Arial Black, sans-serif" font-size="44" font-weight="900" letter-spacing="-1px" filter="url(#textShadow)">'26</text>
+  
+  <!-- Subtle accent line under text - dark -->
+  <rect x="50" y="85" width="300" height="2" fill="#1B365D" opacity="0.3" rx="1" ry="1"/>
+</svg>
