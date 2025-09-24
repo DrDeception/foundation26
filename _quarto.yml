@@ -45,7 +45,4 @@ format:
     link-external-icon: true
     comments:
       hypothesis: true
-    css: include/webex.css
-    include-after-body: include/webex.js
-filters: 
-- webr
+
